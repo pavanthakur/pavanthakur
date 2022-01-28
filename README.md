@@ -9,7 +9,7 @@
 
 <p align="center">
  <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
-  🌱 Microsoft Certified Professional 
+   Microsoft Certified Professional, check my 🌱 badges here 
  </a>
 </p>
 
@@ -33,7 +33,9 @@
 - 🌱 I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
-- 💬 I’m open for any good Individual Contributor role and you can Message me to dsicuss further
+- 💬 I’m open for Individual Contributor role with my above skills. Happy to discuss further :)
+<p align="center"> 
         Skype : pavanthakur
         Gmail : pavan.thakur@gmail.com
         Teams : pavan.thakur@gmail.com
+ </p>
