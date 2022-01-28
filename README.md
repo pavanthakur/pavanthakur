@@ -2,9 +2,9 @@
 
 
 <p align="center">
- <a href="https://linkedin.com/in/pavanthakur" target="_blank">
-  My <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> Profile
- </a>
+ My <a href="https://linkedin.com/in/pavanthakur" target="_blank">
+   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
+ </a> Profile
 </p>
 
 <p align="center">
