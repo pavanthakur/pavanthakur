@@ -3,13 +3,13 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/pavanthakur" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  My <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> Profile
  </a>
 </p>
 
 <p align="center">
- <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
-   Microsoft Certified Professional, check my 🌱 badges here 
+ 🌱 <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
+   Microsoft Certified Professional, check my badges here 
  </a>
 </p>
 
