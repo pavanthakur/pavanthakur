@@ -2,9 +2,9 @@
 
 
 <p align="center">
- My <a href="https://linkedin.com/in/pavanthakur" target="_blank">
-   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
- </a> Profile
+ Check My <a  href="https://linkedin.com/in/pavanthakur" target="_blank">
+   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
+ </a> Profile here 🤝
 </p>
 
 <p align="center">
@@ -33,9 +33,10 @@
 - 🌱 I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
-- 💬 I’m open for Individual Contributor role with my above skills. Happy to discuss further :)
+- 💬 I’m open for any new Individual Contributor role for my above skills. 
 <p align="center"> 
-        Skype : pavanthakur
-        Gmail : pavan.thakur@gmail.com
-        Teams : pavan.thakur@gmail.com
+ Happy to discuss further :)
+        <br> Skype : pavanthakur
+        <br> Gmail : pavan.thakur@gmail.com
+        <br> Teams : pavan.thakur@gmail.com
  </p>
