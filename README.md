@@ -30,7 +30,7 @@
 </p>
 
 - 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 17+ Years
-- 🌱 I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
+- ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
 - 💬 I’m open for any new Individual Contributor role for my above skills. 
