@@ -34,9 +34,16 @@
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
 - 💬 I’m open for any new Individual Contributor role for my above skills. 
+
+<p align="right"> 
+<a href="https://github.com/pavanthakur/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=pavanthakur&&color=brightgreen">
+</a>
+</p>
+
 <p align="center"> 
- Happy to discuss further :)
-        <br> Skype : pavanthakur
-        <br> Gmail : pavan.thakur@gmail.com
-        <br> Teams : pavan.thakur@gmail.com
+Get in touch
+        <br> <b>Skype</b> : pavanthakur
+        <br> <b>Gmail</b> : pavan.thakur@gmail.com
+        <br> <b>Teams</b> : pavan.thakur@gmail.com
  </p>
