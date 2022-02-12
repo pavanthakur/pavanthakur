@@ -1,18 +1,5 @@
 <h1 align="center">Hi there, I'm Pavan Thakur 👋</h1>
 
-
-<p align="center">
- Check My <a  href="https://linkedin.com/in/pavanthakur" target="_blank">
-   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
- </a> Profile here 🤝
-</p>
-
-<p align="center">
- 🌱 <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
-   Microsoft Certified Professional, check my badges here 
- </a>
-</p>
-
 <p align="center"> 
  <strong>
   Professional skills
@@ -29,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 17+ Years
+- 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 17+ Years. Highly flexible, hard worker and honest with the ability to stay calm and focused in demanding situations. 
 - ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
@@ -39,6 +26,18 @@
 <a href="https://github.com/pavanthakur/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=pavanthakur&&color=brightgreen">
 </a>
+</p>
+
+<p align="center">
+ Check My <a  href="https://linkedin.com/in/pavanthakur" target="_blank">
+   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
+ </a> Profile here 🤝
+</p>
+
+<p align="center">
+ 🌱 <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
+   Microsoft Certified Professional, check my badges here 
+ </a>
 </p>
 
 <p align="center"> 
