@@ -16,11 +16,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 17+ Years. Highly flexible, hard worker and honest with the ability to stay calm and focused in demanding situations. 
-- ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, javascript, docker, kubernetes
-- 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular 13, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
+- 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 16+ Years. Highly flexible, hard worker and honest with the ability to stay calm and focused in demanding situations. 
+- ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, docker, kubernetes
+- 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
-- 💬 I’m open for any new Individual Contributor or Full stack developer role for my above skills. 
+- 💬 I’m open for any Individual Contributor or Full stack developer role. 
 
 <p align="right"> 
 <a href="https://github.com/pavanthakur/github-profile-views-counter">
@@ -42,7 +42,5 @@
 
 <p align="center"> 
 Get in touch
-        <br> <b>Skype</b> : pavanthakur
         <br> <b>Gmail</b> : pavan.thakur@gmail.com
-        <br> <b>Teams</b> : pavan.thakur@gmail.com
  </p>
