@@ -24,7 +24,7 @@
 
 <p align="right"> 
 <a href="https://github.com/pavanthakur/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pavanthakur&&color=brightgreen">
+    <img src="https://komarev.com/ghpvc/?username=pavanthakur&&color=brightgreen&base=1000">
 </a>
 </p>
 
