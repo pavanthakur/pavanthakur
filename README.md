@@ -20,7 +20,7 @@
 - ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, docker, kubernetes
 - 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
 
-- 💬 I’m open for any Individual Contributor or Full stack developer role. 
+- 💬 I’m open for Individual Contributor Full stack developer role. Please feel free to drop me an email about suitable opportunity. Thank you!
 
 <p align="right"> 
 <a href="https://github.com/pavanthakur/github-profile-views-counter">
