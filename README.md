@@ -16,11 +16,23 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 </p>
 
-- 🔭 I’m currently working as .Net Architect. My total Technical Experience is over 16+ Years. Highly flexible, hard worker and honest with the ability to stay calm and focused in demanding situations. 
-- ✔  I’m currently exploring clean-architecture, micro-services, DDD, CQRS, event-sourcing, docker, kubernetes
-- 👯 I’m looking to collaborate on .Net Projects, Full Stack Developent using .Net Core, Angular, Entity Framework Core, Azure, SignalR, Sql, LinQ technology
+## Pavan Thakur — .NET Architect
 
-- 💬 I’m open for Individual Contributor Full stack developer role. Please feel free to drop me an email about suitable opportunity. Thank you!
+16 years building backend systems in .NET.
+Currently: multi-tenant SaaS, Clean Architecture, Azure, CQRS/DDD.
+
+**What I'm working on**
+→ XYDataLabs Order Processing System — multi-tenant payment platform,
+  Clean Architecture, dedicated DB isolation, PCI DSS compliance, Azure Bicep IaC
+
+**Stack I work in daily**
+.NET 8 · ASP.NET Core · EF Core · Azure · Angular · Docker · SQL Server
+
+📍 Pune, India · Open to opportunities
+🔗 linkedin.com/in/pavanthakur
+🏅 Microsoft Certified — credly.com/users/pavan-thakur
+
+- 💬 I’m open for Individual Contributor/ Architect/ Full stack developer role. Please feel free to drop me an email about suitable opportunity. Thank you!
 
 <p align="right"> 
 <a href="https://github.com/pavanthakur/github-profile-views-counter">
