@@ -1,58 +1,67 @@
-<h1 align="center">Hi 'm Pavan Thakur 👋</h1>
-
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</p>
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes" width="43" height="43" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
-</p>
-
-## Pavan Thakur — .NET Architect
-
-16 years building backend systems in .NET.
-Currently: multi-tenant SaaS, Clean Architecture, Azure, CQRS/DDD.
-
-**What I'm working on**
-→ XYDataLabs Order Processing System — multi-tenant payment platform,
-  Clean Architecture, dedicated DB isolation, PCI DSS compliance, Azure Bicep IaC
-
-**Stack I work in daily**
-.NET 8 · ASP.NET Core · EF Core · Azure · Angular · Docker · SQL Server
-
-📍 Pune, India · Open to opportunities
-🔗 linkedin.com/in/pavanthakur
-🏅 Microsoft Certified — credly.com/users/pavan-thakur
-
-- 💬 I’m open for Individual Contributor/ Architect/ Full stack developer role. Please feel free to drop me an email about suitable opportunity. Thank you!
-
-<p align="right"> 
-<a href="https://github.com/pavanthakur/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=pavanthakur&&color=brightgreen&base=1000">
-</a>
-</p>
+<h1 align="center">Pavan Thakur</h1>
+<h3 align="center">.NET Architect &nbsp;·&nbsp; 16 Years &nbsp;·&nbsp; Pune, India</h3>
 
 <p align="center">
- Check My <a  href="https://linkedin.com/in/pavanthakur" target="_blank">
-   <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" /> 
- </a> Profile here 🤝
+  <a href="https://linkedin.com/in/pavanthakur" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat-square" />
 </p>
 
-<p align="center">
- 🌱 <a href="https://www.credly.com/users/pavan-thakur" target="_blank">
-   Microsoft Certified Professional, check my badges here 
- </a>
+---
+
+I design and build backend systems in .NET — currently focused on multi-tenant SaaS, Clean Architecture, and Azure-deployed infrastructure.
+
+16 years across the full stack, with the last several years moving toward architecture: system design, tenant isolation patterns, payment processing, CI/CD, and IaC.
+
+---
+
+### What I'm building
+
+**[XYDataLabs Order Processing System](https://github.com/pavanthakur/XYDataLabs.OrderProcessingSystem)**  
+Multi-tenant order and payment platform built to production standards.
+
+- Clean Architecture (Domain / Application / Infrastructure / API)
+- Shared-pool + dedicated-DB tenant isolation via EF Core global query filters
+- Payment adapter pattern (OpenPay) with 3DS per-tenant configuration
+- PCI DSS card data handling enforced by architecture tests at CI
+- Azure deployment via Bicep IaC · Dockerized · GitHub Actions CI/CD
+
+---
+
+### Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt=".NET Core" title=".NET 8 / ASP.NET Core" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" title="Microsoft Azure" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" height="36" alt="Angular" title="Angular" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" title="SQL Server" />
 </p>
 
-<p align="center"> 
-Get in touch
-        <br> <b>Gmail</b> : pavan.thakur@gmail.com
- </p>
+`.NET 8` · `ASP.NET Core` · `Entity Framework Core` · `CQRS / MediatR` · `Clean Architecture` · `DDD`  
+`Azure` · `Bicep` · `Docker` · `GitHub Actions` · `Angular` · `TypeScript` · `SQL Server`
+
+---
+
+### What I'm looking for
+
+Individual Contributor, Tech Lead, or Architect role on a .NET backend or full-stack team.  
+Happy to discuss — reach me on [LinkedIn](https://linkedin.com/in/pavanthakur).
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=pavanthakur&color=0078D4&style=flat-square&label=profile+views" />
+</p>
